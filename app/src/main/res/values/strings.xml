@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo  Firebae</string>
+    <string name="enter_email_id_here">Enter Email id here</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="enter_password_to_confirm">Enter Password to confirm</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
